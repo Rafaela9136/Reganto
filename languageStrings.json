@@ -1,0 +1,7 @@
+{
+	"dog": ["Dog", "Cane", "Perro", "Hund", "Chien"],
+	"cat": ["Cat", "Gatto", "Gato", "Katze", "Chat"],
+	"flower": ["Flower", "Fiore", "Flor", "Blume", "Fleur"],
+	"coffee": ["Coffee", "Caff\u00e8", "Caf\u00e9", "Kaffee"],
+	"c2": ["Construct 2"]
+}
